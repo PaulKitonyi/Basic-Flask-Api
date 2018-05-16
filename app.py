@@ -38,6 +38,5 @@ def removeOne(name):
     languages.remove(lang[0])
     return jsonify({'languages': languages })
 
-
 if __name__ == '__main__':
     app.run(debug=True)
