@@ -16,9 +16,9 @@ https://github.com/PaulKitonyi/Flask-api-practice.git
 
 After setting up the above. Run the api by typing the below command in your terminal:
 
-```python run.py```
+```python app.py```
 
-Test the endpoints registered on `run.py` on Postman and on the port the app is running on. 
+Test the endpoints registered on `app.py` on Postman and on the port the app is running on. 
 
 
 ## Contribution.
